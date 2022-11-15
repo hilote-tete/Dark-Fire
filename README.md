@@ -8,6 +8,12 @@ This Exploit is free, however the linkvertise supports me and my work, if you wa
 
 Not Open Source lol.
 
+Patch Check
+
+Patched = Patched
+
+Not Patched = Not_Patched
+
 # Download
 
 https://link-hub.net/532778/dark-fire
@@ -17,8 +23,4 @@ Follow the linkvertise for download.
 Made the linkvertise so people can support me without wasting money :)
 
 
-Patch Check
 
-Patched = Patched
-
-Not Patched = Not_Patched
